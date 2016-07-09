@@ -1,0 +1,42 @@
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.exe.config
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.exe
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.pdb
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.xml
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\WHLClasses.dll
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\zxing.dll
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\LinnworksAPI.dll
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\MySql.Data.dll
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\Newtonsoft.Json.dll
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\WHLClasses.pdb
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\WHLClasses.xml
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\LinnworksAPI.pdb
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.vbprojResolveAssemblyReference.cache
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.Resources.resources
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.vbproj.GenerateResource.Cache
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.exe
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.xml
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.pdb
+Z:\.V5\Documents\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.ResetOrderForm.resources
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.exe.config
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.exe
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.xml
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.pdb
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.exe.manifest
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.application
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.exe
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.pdb
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\OrderStateEditor.xml
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\WHLClasses.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\zxing.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\LinnworksAPI.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\MySql.Data.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\Newtonsoft.Json.dll
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\WHLClasses.pdb
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\WHLClasses.xml
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\bin\Debug\LinnworksAPI.pdb
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.vbprojResolveAssemblyReference.cache
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.ResetOrderForm.resources
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.Resources.resources
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.vbproj.GenerateResource.Cache
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.exe.manifest
+Z:\.V5\Documents Backup\Doc Backup\Projects\OrderStateEditor\OrderStateEditor\obj\Debug\OrderStateEditor.application
